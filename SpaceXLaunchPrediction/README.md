@@ -27,3 +27,4 @@ The main objective of this project is to predict the price of a SpaceX launch us
 - **Python Capstone Data Viz.ipynb:** Contains data visualizations and charts.
 - **Python Capstone Dashboard.ipynb:** Contains data visualization with real world maps.
 - **Python Capstone ML Prediction.ipynb:** Contains ML algorithms training and evaluation process.
+- **FinalPresentation.pdf:** Contains power point slides for final presentation in pdf format.
