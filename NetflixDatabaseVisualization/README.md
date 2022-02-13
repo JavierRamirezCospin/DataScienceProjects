@@ -15,7 +15,7 @@ The following libraries are required:
 
 ## 2. Files Description
 
-- **NetflixData.csv**: Contains raw data from the netflix database.
-- **NetflixDataAnalysis**.ipynb: Contains netflix raw data cleaning and transformation process, as well as the exploratory data analysis.
-- **NetflixCleanData.csv**: Contains clean data for visualization program.
-- **NetflixDashboard.py**: Main program for interactive Dashboard. Data can be visualized by range of order of release and by default runs on the local port: 8050.
+- **NetflixData.csv:** Contains raw data from the netflix database.
+- **NetflixDataAnalysis.ipynb:** Contains netflix raw data cleaning and transformation process, as well as the exploratory data analysis.
+- **NetflixCleanData.csv:** Contains clean data for visualization program.
+- **NetflixDashboard.py:** Main program for interactive Dashboard. Data can be visualized by range of order of release and by default runs on the local port: 8050.
