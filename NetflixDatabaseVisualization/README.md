@@ -1,7 +1,9 @@
 # Netflix Data Visualization
 
 The main objective of this project is to visualize data of the netflix streaming service database. 
-This databse includes all tv shows and movies offered in the streaming service as of 2021.
+The database includes all tv shows and movies offered in the streaming service as of 2021.
+Data was separated by year of release, with each category holding up to 10 different years.
+Data visualization includes: movies vs tv shows proportion, top countries of origin, top years of release and top categories for each category.
 
 ## 1. Requirements
  
