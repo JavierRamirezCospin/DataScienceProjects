@@ -1,4 +1,4 @@
-# SpaceXLaunchPrediction
+# SpaceX Launch Price Prediction
 
 This project contains all files for IBM's Data Science Professional Certificate Final Project. 
 The main objective of this project is to predict the price of a SpaceX launch using machine learning and previous Falcon 9 launches datasets, by determining the success 
