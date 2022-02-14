@@ -2,6 +2,7 @@
 
 The main objective of this project is to visualize data of a supermarket's sales. 
 Visualizations include: female vs male proportion, member type proportion, gross income and Total price boxplots, quantity and ratings frequencies.
+Data obtained from: https://www.kaggle.com/aungpyaeap/supermarket-sales
 
 ## 1. Requirements
 
