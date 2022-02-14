@@ -4,6 +4,7 @@ The main objective of this project is to visualize data of the netflix streaming
 The database includes all tv shows and movies offered in the streaming service as of 2021.
 Data was separated by year of release, with each category holding up to 10 different years.
 Data visualization includes: movies vs tv shows proportion, top countries of origin, top years of release and top categories for each category.
+Data obtained from: https://www.kaggle.com/shivamb/netflix-shows
 
 ## 1. Requirements
  
