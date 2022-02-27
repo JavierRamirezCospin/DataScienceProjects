@@ -16,7 +16,7 @@ Data obtained from: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-carde
 
 ## 2. Files Description
 
-- CarData.csv: Contains raw data of vehicles
-- CarDataAnalysis.ipynb: Contains raw data cleaning and manipulation, and EDA.
-- CarDataModeling.ipynb: Contains regression models construction, training and testing.
-- ModelCarData.csv: Contains clean data for regression models.
+- **CarData.csv:** Contains raw data of vehicles
+- **CarDataAnalysis.ipynb:** Contains raw data cleaning and manipulation, and EDA.
+- **CarDataModeling.ipynb:** Contains regression models construction, training and testing.
+- **ModelCarData.csv:** Contains clean data for regression models.
